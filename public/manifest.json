@@ -1,11 +1,11 @@
 {
-  "name": "Anvil Quest Wiki",
-  "short_name": "AQ Wiki",
-  "description": "Complete Anvil Quest wiki with boss guides, codes, and tier lists.",
+  "name": "HANDS OVER Wiki",
+  "short_name": "HANDS OVER",
+  "description": "Take a seat at the table, play your cards, sabotage your friends and try to stay in the game while every turn puts someone under pressure.",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#ffffff",
-  "theme_color": "#f36716",
+  "theme_color": "#f97415",
   "icons": [
     {
       "src": "/android-chrome-192x192.png",
